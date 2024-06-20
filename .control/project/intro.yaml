@@ -23,7 +23,7 @@
 #       description : string
 #          Description of the keynote.
 
-name: ""
+name: "Test-Repo1000"
 tagline: Replace This Text With Your Project's Tagline, Slogan, Or Short Description
 description: >-
   Replace this text with a short summary of ${{ name }}, describing its purpose and main features.

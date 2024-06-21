@@ -1,15 +1,15 @@
 """Test-Repo1000
 
-Replace This Text With Your Project's Tagline, Slogan, Or Short Description
+Replace This Text With Your Project's Tagline, Slogan
 
-Replace
-this text with a short summary of Test-Repo1000, describing its purpose and main features. By
-default, this text is displayed on the repository's main README file, on the homepage of the
-project's website, on the project's PyPI and TestPyPI pages, and on the package's main docstring.
-Like all other entries in your repository's control center, this text can also contain dynamic
-references to other entries. By default, the first occurrence of the name of the project in this
-text is styled as bold/italic and linked to the project's website. The text can also contain (GitHub
-Flavored) HTML syntax, for example, to make text <b>bold</b>, <i>italic</i>, or to add <a
+Replace this text with a short
+summary of Test-Repo1000, describing its purpose and main features. By default, this text is
+displayed on the repository's main README file, on the homepage of the project's website, on the
+project's PyPI and TestPyPI pages, and on the package's main docstring. Like all other entries in
+your repository's control center, this text can also contain dynamic references to other entries. By
+default, the first occurrence of the name of the project in this text is styled as bold/italic and
+linked to the project's website. The text can also contain (GitHub Flavored) HTML syntax, for
+example, to make text <b>bold</b>, <i>italic</i>, or to add <a
 href="https://pypackit.repodynamics.com">links</a>.
 
 Copyright 2024 None

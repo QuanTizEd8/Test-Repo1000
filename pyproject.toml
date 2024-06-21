@@ -18,7 +18,7 @@ classifiers = [
 dependencies = [
     "numpy >= 1.21.2",
 ]
-description = "Replace This Text With Your Project's Tagline, Slogan, Or Short Description"
+description = "Replace This Text With Your Project's Tagline, Slogan"
 dynamic = [
     "version",
 ]

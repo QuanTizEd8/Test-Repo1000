@@ -4,7 +4,7 @@
 
 <!-- ---------------------------------------- START : Header ---------------------------------------- -->
 <div align="center"><!-- ------------------------- START : Logo ------------------------- -->
-<a href="https://quantized8.github.io/Test-Repo1000"><img alt="Test-Repo1000: Replace This Text With Your Project's Tagline, Slogan, Or Short Description" title="Welcome to Test-Repo1000! Click to visit our website and learn more." width="80%" height="auto" align="center" src="https://quantized8.github.io/Test-Repo1000/_static/logo_full_light.svg"></a>
+<a href="https://quantized8.github.io/Test-Repo1000"><img alt="Test-Repo1000: Replace This Text With Your Project's Tagline, Slogan" title="Welcome to Test-Repo1000! Click to visit our website and learn more." width="80%" height="auto" align="center" src="https://quantized8.github.io/Test-Repo1000/_static/logo_full_light.svg"></a>
 <!-- ------------------------- END : Logo ------------------------- -->
 <!-- ------------------------- START : Top Panel ------------------------- -->
 <div align="center"><hr width="80%">
